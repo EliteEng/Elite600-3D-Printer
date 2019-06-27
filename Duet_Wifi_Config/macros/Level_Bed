@@ -1,0 +1,4 @@
+;Level the Bed
+G30 P0 X10 Y157 Z-99999 ; probe near a leadscrew
+G30 P1 X10 Y507 Z-99999 ; probe near a leadscrew
+G30 P2 X560 Y332 Z-99999 S3 ; probe near a leadscrew and calibrate 3 motors
